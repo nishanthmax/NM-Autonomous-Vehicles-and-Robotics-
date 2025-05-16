@@ -40,10 +40,9 @@ Urban areas face traffic congestion, delayed emergency response, and inefficient
 - Federated learning on edge devices
 
 ## 👥 Contributors
-- K. Chandru
-- D. Bharathraj
-- V. Monish
-- E. Karthikeyan
-- S. Micheal Achilles
-
+-Nishanth E
+-Priyanga B
+-Rajarajeswari L
+-Thanussmitha S 
+-Thasmithaa S
 ---
